@@ -1,5 +1,7 @@
 package com.skymirror.ae2tetraplus.mixin;
 
+import com.skymirror.ae2tetraplus.Lang;
+
 import com.skymirror.ae2tetraplus.Ae2TetraPlus;
 import net.minecraft.world.item.ItemStack;
 import org.spongepowered.asm.mixin.Mixin;
@@ -31,7 +33,7 @@ public abstract class GuiModuleListSlotNameMixin {
             for (int i = 0; i < names.length; i++) {
                 sb.append('[').append(names[i]).append(']');
                 if ("tetra.slot.cell/keytype".equals(names[i])) {
-                    names[i] = "存储类型";
+                    names[i] = Lang.slotStorageType();
                 }
             }
         }
@@ -55,7 +57,7 @@ public abstract class GuiModuleListSlotNameMixin {
             for (int i = 0; i < names.length; i++) {
                 sb.append('[').append(names[i]).append(']');
                 if ("tetra.slot.cell/keytype".equals(names[i])) {
-                    names[i] = "存储类型";
+                    names[i] = Lang.slotStorageType();
                 }
             }
         }

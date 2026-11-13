@@ -1,6 +1,9 @@
 # AE Tetra Plus
 
-> 作者 / Author: **YingOvO**
+> 作者 / Author: **YingOvO**  
+> 源码 / Source: https://github.com/yingovo/ae2-tetra-plus  
+> 反饋 / Issues: https://github.com/yingovo/ae2-tetra-plus/issues  
+> 下载 / Download: https://github.com/yingovo/ae2-tetra-plus/releases
 
 [English](#english) | [简体中文](#简体中文)
 

@@ -1,6 +1,8 @@
 modLoader="javafml"
 loaderVersion="[47,)"
 license="MIT"
+issueTrackerURL="https://github.com/yingovo/ae2-tetra-plus/issues"
+displayURL="https://github.com/yingovo/ae2-tetra-plus"
 
 [[mods]]
 modId="ae2tetraplus"
