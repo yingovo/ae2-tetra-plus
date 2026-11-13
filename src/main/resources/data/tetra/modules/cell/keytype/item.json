@@ -1,0 +1,17 @@
+{
+  "replace": true,
+  "type": "tetra:basic_module",
+  "slots": ["cell/keytype"],
+  "variants": [
+    {
+      "key": "cell/keytype/item",
+      "integrity": 0,
+      "effects": {},
+      "glyph": {
+        "textureLocation": "ae2tetraplus:textures/gui/glyphs.png",
+        "textureX": 3,
+        "textureY": 2
+      }
+    }
+  ]
+}

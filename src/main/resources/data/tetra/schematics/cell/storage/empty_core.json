@@ -1,0 +1,17 @@
+{
+  "replace": true,
+  "slots": ["cell/storage"],
+  "materialSlotCount": 0,
+  "displayType": "minor",
+  "glyph": {
+    "textureLocation": "ae_tetra:textures/gui/glyphs.png",
+    "textureX": 0.5,
+    "textureY": 1
+  },
+  "outcomes": [
+    {
+      "moduleKey": "cell/storage/basic",
+      "moduleVariant": "cell_storage/empty"
+    }
+  ]
+}

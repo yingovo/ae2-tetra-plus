@@ -1,0 +1,17 @@
+{
+  "replace": true,
+  "slots": ["cell/keytype"],
+  "materialSlotCount": 0,
+  "displayType": "minor",
+  "glyph": {
+    "textureLocation": "ae2tetraplus:textures/gui/glyphs.png",
+    "textureX": 35,
+    "textureY": 2
+  },
+  "outcomes": [
+    {
+      "moduleKey": "cell/keytype/mana",
+      "moduleVariant": "cell/keytype/mana"
+    }
+  ]
+}

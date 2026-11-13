@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "com.skymirror.ae2tetraplus.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ModularCellSlotsMixin",
+    "ModularCellModulesMixin",
+    "ModularCellOffsetsMixin",
+    "CellDefaultModuleMixin",
+    "TetraCellHandlerMixin",
+    "TetraCellInventoryStatsMixin",
+    "CellFluidTooltipMixin",
+    "HoloItemGuiSlotNameMixin",
+    "ModularItemSlotNameMixin",
+    "GuiModuleListSlotNameMixin",
+    "ManaSchematicHideMixin"
+  ],
+  "client": [
+    "I18nSlotNameMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

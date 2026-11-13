@@ -1,0 +1,17 @@
+{
+  "replace": true,
+  "slots": ["cell/keytype"],
+  "materialSlotCount": 0,
+  "displayType": "minor",
+  "glyph": {
+    "textureLocation": "ae2tetraplus:textures/gui/glyphs.png",
+    "textureX": 67,
+    "textureY": 2
+  },
+  "outcomes": [
+    {
+      "moduleKey": "cell/keytype/air",
+      "moduleVariant": "cell/keytype/air"
+    }
+  ]
+}

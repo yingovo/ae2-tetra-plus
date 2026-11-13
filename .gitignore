@@ -1,0 +1,24 @@
+# ==== Gradle / 构建产物 ====
+.gradle/
+build/
+out/
+*.class
+
+# ==== 依赖 jar（体积大，不入库） ====
+libs/*.jar
+!libs/*.md
+
+# ==== IDE ====
+.idea/
+*.iml
+.vscode/
+
+# ==== 本地调试/临时 ====
+dist/
+run/
+logs/
+crash-reports/
+
+# ==== 系统文件 ====
+.DS_Store
+Thumbs.db

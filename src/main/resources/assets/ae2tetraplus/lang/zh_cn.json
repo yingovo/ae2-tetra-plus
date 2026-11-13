@@ -1,0 +1,8 @@
+{
+  "gui.ae2tetraplus.cell_type": "存储类型",
+  "gui.ae2tetraplus.type.item": "物品存储核心",
+  "gui.ae2tetraplus.type.fluid": "流体存储核心",
+  "tetra.slot.cell/keytype": "存储类型",
+  "tetra.improvement.cell_keytype/item.name": "物品存储核心",
+  "tetra.improvement.cell_keytype/fluid.name": "流体存储核心"
+}
